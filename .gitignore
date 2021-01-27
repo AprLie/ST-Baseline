@@ -1,0 +1,9 @@
+*/__pycache__
+*/FETCH_HEAD
+*/res
+*/params
+*/log
+STGCN/datasets
+Graph-WaveNet
+DCRNN_PyTorch
+data_related
